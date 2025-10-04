@@ -1,0 +1,96 @@
+.big-box{
+    background:linear-gradient(to left, rgb(22, 22, 22), rgb(59, 59, 59));
+    height: 37em;
+    width: 82em;
+    margin: 0 auto 0 auto;
+    border-radius: 3em;
+}
+.box{
+    background-color: aliceblue;
+    box-shadow: black 7px 9px 14px;
+    height: 21em;
+    width: 40em;
+    margin: 0 auto 0 auto;
+    border-radius: 2cqb;
+    
+}
+.h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 4%;
+}
+.lab1{
+    width: 19em;
+    height: 2em;
+    margin-left: 4%;
+    border-radius: 1cqmin;
+    background-color: white;
+    box-shadow: black 5px 6px 9px;
+    text-align: center;
+}
+.but{
+     width: 10em;
+    height: 2em;
+    margin-left: 32em;
+    cursor: pointer;
+    border-radius: 1dvh;
+    background-color: black;
+    box-sizing: content-box;
+    box-shadow: black 5px 6px 9px;
+    float: left;
+    margin-top: -28.3cqb;
+}
+.sign{
+    text-decoration: none;
+    color: white;
+    
+}
+.log{
+        color: rgb(243, 87, 26);
+        text-decoration: none;
+
+}
+.al{
+    float: right;
+    margin-right: 5%;
+     margin-top: -21cqb;
+
+}
+.o{
+    float: right;
+     margin-top: -18cqb;
+      margin-right: 20%;
+}
+.go{
+    width: 1em;
+    height: 1em;
+    text-align: center;
+}
+.but1{
+     width: 10em;
+    height: 2.3em;
+    margin-left: 38em;
+    cursor: pointer;
+    background: transparent;
+    border-radius: 1dvh;
+    box-sizing: content-box;
+    box-shadow: black 5px 6px 9px;
+    float: left;
+    margin-top: -14cqb;
+    float: right;
+    margin-right: 10%;
+}
+.but2{
+     width: 10em;
+    height: 2.3em;
+    margin-left: 38em;
+    cursor: pointer;
+    background: transparent;
+    border-radius: 1dvh;
+    box-sizing: content-box;
+    box-shadow: black 5px 6px 9px;
+    float: left;
+    margin-top: -5cqb;
+    float: right;
+    margin-right: 10%;
+}
+    
